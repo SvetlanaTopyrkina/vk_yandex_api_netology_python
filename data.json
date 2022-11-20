@@ -1,0 +1,1 @@
+{"error": {"error_code": 15, "error_msg": "Access denied: no access to call this method", "request_params": [{"key": "v", "value": "5.131"}, {"key": "owner_id", "value": "763715749"}, {"key": "method", "value": "photos.getAll"}, {"key": "oauth", "value": "1"}]}}
